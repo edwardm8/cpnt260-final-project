@@ -6,6 +6,7 @@
 https://cpnt260-final-project.vercel.app/
 
 ## Additonal Pages
+All files realted to assignment in src
 Gallery
 - File: gallery.css, gallery.html
 
