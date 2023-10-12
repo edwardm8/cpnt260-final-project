@@ -3,7 +3,7 @@
 ## Edward Mah
 
 ## Static page
-[Page](cpnt260-final-project.vercel.app)
+[page](https://cpnt260-final-project.vercel.app/)
 
 ## Additonal Pages
 Gallery
